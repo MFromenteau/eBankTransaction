@@ -1,0 +1,8 @@
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/service/SampleService.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/dto/NewSampleDto.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/dto/SampleDto.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/domain/Sample.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/model/SampleModel.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/controller/SampleController.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/repository/SampleRepository.java
+/home/lemome/IdeaProjects/architecturecnam/src/main/java/org/cnam/architecturecnam/architecturecnam.java
