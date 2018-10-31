@@ -3,7 +3,7 @@ package org.cnam.architecturecnam.dto;
 public class SampleDto {
 
     private long id;
-    private String data;
+    public String data;
 
     public SampleDto(long id, String data) {
         this.id = id;
