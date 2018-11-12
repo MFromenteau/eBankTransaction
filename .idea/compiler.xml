@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="architecturecnam" />
         <module name="eBankTransaction" />
+        <module name="sample" />
       </profile>
     </annotationProcessing>
   </component>

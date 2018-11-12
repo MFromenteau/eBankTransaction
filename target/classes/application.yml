@@ -24,3 +24,9 @@ spring:
       settings:
         trace: false
         web-allow-others: false
+
+application:
+  transaction:
+    url: http://localhost:8086
+    features:
+      create: /transaction/create
