@@ -1,12 +1,12 @@
 package org.cnam.architecturecnam.domain;
 
 
-public class Sample {
+public class Transac {
 
     private long id;
     private String data;
 
-    public Sample(long id, String data) {
+    public Transac(long id, String data) {
         this.id = id;
         this.data = data;
     }
